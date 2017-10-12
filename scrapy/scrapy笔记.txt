@@ -1,0 +1,7 @@
+scrapy runspider xx.py -o xxx.csv  //通过指令生成csv文件
+scrapy startproject xxx //创建scrapy工程
+scrapy genspider yyy xx.org  //生成一个官方scrapy文件
+scrapy crawl yyy // 运行一个spider
+scrapy list //查看列表有哪些爬虫
+scrapy version -v//查看版本
+scrapy bench //检测是否安装成功
