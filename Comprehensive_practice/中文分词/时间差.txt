@@ -1,0 +1,9 @@
+﻿普通情况下，第一次时间差：686.663000107；
+在multiprocessing情况下，第二次时间差：657.691999912；
+在multiprocessing情况下，第二次时间差：711.609999895；
+因为共享资源情况，使得多线程不能有效的优化;
+在multiprocessing情况下，eng时间差：113.542999983；
+在multiprocessing情况下，zonghe时间差：188.342000008；
+在multiprocessing情况下，l时间差：177.710000038；
+在multiprocessing情况下，nz时间差：163.515999794；
+在multiprocessing情况下，所有时间差：687.225999832；
